@@ -1,0 +1,12 @@
+{
+  "name": "mcp-cf-image",
+  "version": "1.0.0",
+  "description": "Minimal MCP server: image generation via Cloudflare Workers AI (FLUX.1 Schnell / SDXL)",
+  "type": "module",
+  "main": "server.js",
+  "bin": { "mcp-cf-image": "server.js" },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.12.0",
+    "zod": "^3.23.8"
+  }
+}

@@ -1,0 +1,7 @@
+node_modules/
+test.png
+test.jpg
+test.webp
+*.log
+.env
+.DS_Store
